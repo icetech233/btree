@@ -1,5 +1,4 @@
 @echo off
 
-
-go run .
+go run ./cmd
 

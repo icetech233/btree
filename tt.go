@@ -1,4 +1,4 @@
-package main
+package tree
 
 import (
 	"fmt"
@@ -6,7 +6,6 @@ import (
 )
 
 func AA() {
-
 	fmt.Println("GOOS", runtime.GOOS, "GOARCH", runtime.GOARCH)
 	fmt.Println("go:build go1.18 +build go1.18")
 }
