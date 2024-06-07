@@ -21,6 +21,4 @@ const add = `
 
 //go:build amd64
 
-
-
 `

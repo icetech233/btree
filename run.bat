@@ -1,4 +1,4 @@
 @echo off
 
-go run ./cmd
+go run ./cmd/aa
 
